@@ -1,6 +1,7 @@
 ### 👋👋 Hiii there 👋👋
 
-<img src="https://capsule-render.vercel.app/api?type=waveing&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="[https://capsule-render.vercel.app/api?type=waveing&color=timeAuto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text-Welcome%20to%20Jiho's%20GitHub%20&ani
+mation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knjnk&show_icons=true&theme=tokyonight)
 
