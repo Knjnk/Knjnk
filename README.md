@@ -1,6 +1,10 @@
 ### Hiii there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knjnk&show_icons=true&theme=tokyonight)
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Knjnk&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 <!--
 **Knjnk/Knjnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
