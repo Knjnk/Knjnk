@@ -1,7 +1,10 @@
 ### Hiii there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knjnk&show_icons=true&theme=tokyonight)
-<img src="https://raw.githubusercontent.com/Knjnk/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=Knjnk.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Knjnk&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 <!--
 **Knjnk/Knjnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
