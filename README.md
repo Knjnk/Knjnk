@@ -1,4 +1,7 @@
 ### 👋👋 Hiii there 👋👋
+
+<img src="https://capsule-render.vercel.app/api?type=waveing&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knjnk&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knjnk&layout=compact)](https://github.com/Knjnk/github-readme-stats)
