@@ -22,5 +22,5 @@
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  
+<img src="https://camo.githubusercontent.com/a1d2dc69ca96d8ed7a7f9158cbadbeff42d0076194eeef84a91341c45f2b58f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666f722d7468652d6261646765266c6f676f3d43266c6f676f436f6c6f723d7768697465">
 </div
